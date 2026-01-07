@@ -9,7 +9,7 @@ SmartPark is a Spring Boot–based application built with Java and Maven. This d
 Before running the application, ensure that the following are installed on your machine:
 
 * **Java 21**
-* **Maven 3.6+**
+* **Maven 3.5.9**
 
 You can verify your installations by running:
 
